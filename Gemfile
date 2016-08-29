@@ -29,8 +29,8 @@ gem 'jbuilder', '~> 2.5'
 gem 'bcrypt'
 gem 'bootstrap-sass'
 gem "fog"
-gem 'carrierwave'
-gem "mini_magick"
+#gem 'carrierwave'
+#gem "mini_magick"
 gem "figaro"
 gem "pundit"
 gem "responders"
