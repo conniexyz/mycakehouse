@@ -1,24 +1,10 @@
-# README
+_____ ______       ___    ___      ________  ________  ___  __    _______           ___  ___  ________  ___  ___  ________  _______      
+|\   _ \  _   \    |\  \  /  /|    |\   ____\|\   __  \|\  \|\  \ |\  ___ \         |\  \|\  \|\   __  \|\  \|\  \|\   ____\|\  ___ \     
+\ \  \\\__\ \  \   \ \  \/  / /    \ \  \___|\ \  \|\  \ \  \/  /|\ \   __/|        \ \  \\\  \ \  \|\  \ \  \\\  \ \  \___|\ \   __/|    
+\ \  \\|__| \  \   \ \    / /      \ \  \    \ \   __  \ \   ___  \ \  \_|/__       \ \   __  \ \  \\\  \ \  \\\  \ \_____  \ \  \_|/__  
+ \ \  \    \ \  \   \/  /  /        \ \  \____\ \  \ \  \ \  \\ \  \ \  \_|\ \       \ \  \ \  \ \  \\\  \ \  \\\  \|____|\  \ \  \_|\ \
+  \ \__\    \ \__\__/  / /           \ \_______\ \__\ \__\ \__\\ \__\ \_______\       \ \__\ \__\ \_______\ \_______\____\_\  \ \_______\
+   \|__|     \|__|\___/ /             \|_______|\|__|\|__|\|__| \|__|\|_______|        \|__|\|__|\|_______|\|_______|\_________\|_______|
+                 \|___|/                                                                                            \|_________|         
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+                                                                                                                                         
